@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoGabriel-Barboza
-- 👀 I’m interested in aprender mais sempre
+- 👀 I’m interested in virar um programador
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on sites e ETC
 - 📫 How to reach me WhatsApp (63) 9 9101-1293 ou Instagram joao.gabriel.sb
